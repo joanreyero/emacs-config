@@ -1,0 +1,227 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/joanreyero/Dropbox/sp/sp-cw2/" . "experiment-data/")
+ ("/Users/joanreyero/Dropbox/sp/" . "sp-cw2/")
+ ("/Users/joanreyero/Dropbox/iaml/assignment2/Data/" . "PartA/")
+ ("/Users/joanreyero/Dropbox/iaml/assignment2/" . "Data/")
+ ("/Users/joanreyero/Dropbox/iaml/" . "assignment2/")
+ ("/Users/joanreyero/Google Drive/" . "automation/")
+ ("/Users/joanreyero/Dropbox/mystarmaps/" . "finance/")
+ ("/Users/joanreyero/Dropbox/tsm -showing/scripts/co.tsm/" . "tsm/")
+ ("/Users/joanreyero/Dropbox/tsm -showing/scripts/email-marketing/" . "messages/")
+ ("/Users/joanreyero/Dropbox/tsm -showing/" . "scripts/")
+ ("/Users/joanreyero/Dropbox/tsm -showing/scripts/" . "co.tsm/")
+ ("/Users/joanreyero/Dropbox/the-star-maps/" . "marketing/")
+ ("/Users/joanreyero/Dropbox/gsk/designer/static/" . "js/")
+ ("/Users/joanreyero/Dropbox/reasoning-and-agents/" . "assignment2/")
+ ("/Users/joanreyero/Dropbox/algorithms/" . "matcher/")
+ ("/Users/joanreyero/Dropbox/gsk/logo-animation/" . "loader/")
+ ("/Users/joanreyero/Dropbox/gsk/gsk-designs/gsk-designer/static/" . "css/")
+ ("/Users/joanreyero/Dropbox/joanreyero/" . "resume/")
+ ("/Users/joanreyero/Dropbox/year-one/computer-simulation/" . "polynomial/")
+ ("/Users/joanreyero/Dropbox/year-one/" . "computer-simulation/")
+ ("/Users/joanreyero/Dropbox/gsk/designer/dessigns/templates/" . "dessigns/")
+ ("/Users/joanreyero/Dropbox/gsk/designer/dessigns/" . "templates/")
+ ("/Users/joanreyero/Dropbox/gsk/gsk-designs/gsk-designer/designs/templates/" . "registration/")
+ ("/Users/joanreyero/Dropbox/gsk/gsk-designs/gsk-designer/designs/" . "templates/")
+ ("/Users/joanreyero/Dropbox/gsk/designer/" . "static/")
+ ("/Users/joanreyero/Dropbox/gsk/gsk-designs/gsk-designer/" . "designs/")
+ ("/Users/joanreyero/Dropbox/gsk/gsk-designs/" . "gsk-designer/")
+ ("/Users/joanreyero/Dropbox/gsk/" . "gsk-designs/")
+ ("/Users/joanreyero/Dropbox/" . "gant-chart/")
+ ("/Users/joanreyero/" . "Dropbox/")
+ ("/Users/" . "joanreyero/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/joanreyero/"
+ "/Users/joanreyero/Dropbox/gant-chart/"
+ "/Users/joanreyero/Dropbox/sp/sp-cw2/"
+ "/Users/joanreyero/Dropbox/amazon-assesment/"
+ "/Users/joanreyero/Dropbox/iaml/assignment2/"
+ "/Users/joanreyero/Dropbox/sp/sp-cw2/experiment-data/"
+ "/Users/joanreyero/Dropbox/sp/sp-cw2/scripts/"
+ "/Users/joanreyero/Dropbox/iaml/assignment2/Data/PartA/"
+ "/Users/joanreyero/Google Drive/automation/"
+ "/Users/joanreyero/Dropbox/automation/"
+ "/Users/joanreyero/Dropbox/mystarmaps/finance/"
+ "/Users/joanreyero/Dropbox/"
+ "/Users/joanreyero/Dropbox/tsm -showing/scripts/co.tsm/tsm/"
+ "/Users/joanreyero/Dropbox/tsm -showing/scripts/email-marketing/messages/"
+ "/Users/joanreyero/Dropbox/tsm -showing/scripts/email-marketing/"
+ "/Users/joanreyero/Dropbox/gsk/gsk-designs/gsk-designer/designs/templates/registration/"
+ "/Users/joanreyero/Dropbox/gsk/gsk-designs/gsk-designer/designs/"
+ "/Users/joanreyero/Dropbox/gsk/gsk-designs/gsk-designer/static/css/"
+ "/Users/joanreyero/Dropbox/gsk/gsk-designs/gsk-designer/static/js/"
+ "/Users/joanreyero/Dropbox/the-star-maps/marketing/"
+ "/Users/joanreyero/Downloads/"
+ "/Users/joanreyero/Dropbox/wearmyfeed/"
+ "/Users/joanreyero/Dropbox/reasoning-and-agents/assignment2/"
+ "/Users/joanreyero/Dropbox/reasoning-and-agents/coursework-1/"
+ "/Users/joanreyero/Dropbox/algorithms/matcher/"
+ "/Users/joanreyero/Dropbox/gsk/gsk-designs/gsk-designer/static/"
+ "/Users/joanreyero/Dropbox/gsk/gsk-designs/gsk-designer/designs/templates/"
+ "/Users/joanreyero/Dropbox/gsk/designer/static/js/"
+ "/Users/joanreyero/Dropbox/gsk/designer/designer/"
+ "/Users/joanreyero/Dropbox/gsk/designer/dessigns/templates/dessigns/"
+ "/Users/joanreyero/Dropbox/gsk/designer/"
+ "/Users/joanreyero/Dropbox/algorithms/simple-recommender-system/"
+ "/Users/joanreyero/Dropbox/gsk/logo-animation/loader/"
+ "/Users/joanreyero/Dropbox/gsk/logo-animation/"
+ "/Users/joanreyero/Dropbox/pfnl/"
+ "/Users/joanreyero/Dropbox/gsk/gsk-designs/gsk-designer/gskDesigns/"
+ "/Users/joanreyero/Dropbox/gsk/gsk-designs/gsk-designer/index/"
+ "/Users/joanreyero/Dropbox/gsk/designer/dessigns/"
+ "/Users/joanreyero/Dropbox/joanreyero/resume/"
+ "/Users/joanreyero/Dropbox/year-one/computer-simulation/polynomial/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".bashrc"
+ "gant.py"
+ ".gitignore"
+ "pp-complete.csv"
+ "README.md"
+ "main.py"
+ "experimentsData.py"
+ "log.csv"
+ "2-gender-train.txt"
+ "2-gender-test-2.txt"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/joanreyero/" (24061 54671 494845 744000) ".conda/" ".viminfo" ".roescache/" ".bash_history" ".gitconfig" ".python_history" "Downloads/" ".bash_profile" ".m2/" ".hyper.js" ".vscode/" ".emacs-bu/" ".BlackRiverImaging/" "Documents/" ".jupyter/" "jm@greaterskies.com Creative Cloud Files/" ".Trash/" ".screenrc" "mug-stars.png" "Dropbox/" ".ghc/" "Applications/" ".emacs" "Movies/" ".ssh/" ".cisco/" ".idlerc/" ".bash_profile-anaconda3.bak" ".hyper_plugins/" ".dropbox/" "hello.sh" "Public/" "Google Drive/" ".bash_sessions/" ".emacs.d/" ".oracle_jre_usage/" ".491062.padl" ".dat" ".matplotlib/" "eclipse-workspace/" "Library/" "Desktop/" ".ipython/" ".p2/" ".pylint.d/" "Pictures/" "Creative Cloud Files/" ".local/" ".adobe/" ".bashrc" ".subversion/" "pddl4j-3.8.2.jar" ".ROESEngineCache/" ".tooling/" ".pytest_cache/" ".CFUserTextEncoding" "nltk_data/" ".DS_Store" "matlab_codes/" "Untitled-1.png" ".vim/" "Music/" ".screenrc~" ".eclipse/" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/gant-chart/" (24046 46699 326170 554000) "gant.py" ".emacs-bu/" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/amazon-assesment/" (24046 29611 622002 713000) "#readme.md#" "main.py" "#pp-complete.csv#" ".emacs-bu/" "pp-complete.csv" ".#readme.md" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/" (24042 29182 212024 827000) "#20190906782486.zip" "travel/" "msm-fiverr/" "alfred/" ".dropbox.cache/" ".emacs-bu/" "automation/" ".cache-08j5jkxmk6qbant7clvpqrv4h" "adobe-stock/" ".ipynb_checkpoints/" ".cache-joanreyero" "#20190906782486/" ".dropbox" "amazon-assesment/" "eclipse-workspace/" "joanreyero/" "gant-chart/" "mystarmaps/" "Icon
+" ".DS_Store" "iaml/" "pixabay/" "powergrab/" "sp/" "greaterskies/" "the-star-maps/" "untitled folder/" "../" "./")
+
+ ("/Users/joanreyero/Downloads/" (24041 4120 210118 430000) "pillow.zip" "Literature_review_for_energy_consumption_in_manufacturing_industry_from_machine_to_factory_level__1_ (2).pdf" "src/" "VID_20190519_150654.mp4" "tikzit.sty" "A1.zip" "Todoist backup 2019-06-21/" "fundo-de-parede-texturizada-branca.zip" "t-shirt-black_t-shirt-black-back (1).zip" "Alfred.Workflow.Todoist.alfredworkflow" "efecto-kettlebell.mobi" "hmm.pdf" "mug-black.zip" "5/" "IMG_20190604_184726.jpg" "my-person (1).zip" "Todoist backup 2019-06-21.zip" "15224299-front.zip" "madgicx_com_2019_08_27_23422033330.txt" "wetransfer-d99d25.zip" "ADOBE SUITE/" "Libro_DeCero_A_Ceto_FR.pdf" "dove-2516641.jpg" "18_11_2018 11_09_41 (2).jpg" "Course info.key" "WMF.zip" "joan-resume-ilovepdf-compressed.pdf" "my-person/" "kunszt-ggf5.ppt" "18888992_150763335467531_8306064153114574848_n.jpg" "iphone-8-plus-2/" "white-glossy-mug/" "text.png" "1.png" "Dynamic-Ads-Product-CSV-Feed-TEMPLATE.csv" "IMG_20181210_201343.jpg" "jetprint_fulfillment_2019_09_13_23652981936.txt" "14521-66407-1-PB.pdf" "#20190906782486.zip" "62474869-Alan-Flusser-Clothes-and-the-Man.txt" "kmeans/" "Programa Desencadenado - Diario de tus numeros.xlsx" "robin-3985535.jpg" "Literature_review_for_energy_consumption_in_manufacturing_industry_from_machine_to_factory_level__1_.pdf" "WhatsApp Image 2019-03-27 at 14.49.02.jpeg" "gusano.mp4" "phone-case-try-2/" "12x16 template/" "Untitled Diagram (1).pdf" "pipe (1).pdf" "pillow-front.png" "4/" "iphone-8-plus/" "SkyGoInstaller.zip" "The_Influence_of_Latin_to_the_English_La.pdf" "phone-case-try-2 (2).zip" "12x16 template.zip" "20180424-1048-TenancyAgreement-1004479824.pdf" "Favorite Workflows/" "mondial_1545844815_1236_d1a4e87af1.pdf" "iceland-june-18th-2010-2200-220-mm.png" "Google Play Music Desktop Player.app/" "year_abroad_statement_final.docx" "iphone-8-plus-3/" "quattrocento/" "mug-blsck-zoomed/" "decoding.pdf" "young_tr38.pdf" "sharefonts.net.txt" "A_Brief_History_of_the_Development_of_th.pdf" "Desencadenado - Tu cuerpo es tu gimnasio.mobi" "mug (3).zip" "shades-intel.zip" "dmmr-ilovepdf-compressed.pdf" "mockup-ac3c7701.png" "My first choice institution is the University of Amsterdam (UvA), an institution that has produced multiple Nobel Laureates, ranked 50th in the world and 1st in the Netherlands.pdf" "iphone-8-plus-4/" "slides-full06.pdf" "videoplayback.mp4" "2017 May - Solutions.pdf" "white-textured-wall-background/" "Player (3).dmg" "y2mate.com - meet_our_partners_elves_greaterskies_9hcmBawHwvw_1080p.mp4" "mug animated mockup/" "Player (2).dmg" "wetransfer-b71bb8.zip" "Crop top_10x10.zip" "18_11_2018 11_09_41.jpg" "Found Ita 1 - HW1 (week 5).docx" "mug (2).zip" "phone-case-try (1)/" "PRT-9069-Old Infirmary Lane, Edinburgh, EH1.pdf" "coursework-1/" "statements.pdf" "mug-white-zoomed.zip" "flowering-twig-2057360.jpg" "antique.psd" "dress (2)/" "fondo-pared-textura-blanca/" "Creative_Cloud_Installer.dmg" "identification/" "prodigi-portfolio.pdf" "dress-woman--size-s/" "Bend-The-Light.wav" "flash_player.dmg" "front_back_left_right.zip" "presets/" "phone-case-try-2 (3).zip" "download.zip" "blank-1868502_1920.jpg" "magic-mug/" "Yin_and_Yang_Seperate.jpg" "gsk-logo.png" "shine routine 2.mp4" "paper-1074131-Edit.tif" "Undergraduate_Algebra - Lang.pdf" "pipe.pdf" "steam.dmg" "ProgramaEfectoKettlebell-FitnessRevolucionario.pdf" "mug-white-zoomed (1).zip" "inf2bcw1.tar" "loan-aplication/" "Photos (1)/" ".emacs-bu/" "infographic.pdf" "template.xlsx" "certificate (1).pdf" "Joan_Reyero_-_MSc_Informatics_student (2).pdf" "token-viterbi.pdf" "Ketone-group-2D-skeletal.png" "Untitled Diagram (12).pdf" "dress (1)/" "hmm (2).pdf" "aaaaaaa.jpg" "edinburgh-uk-june-18th-2010-2200-100-mm (1).png" "mls_homework_nov18.pdf" "wetransfer-91ac72.zip" "tronco.mp4" "00100dPORTRAIT_00100_BURST20190603170832567_COVER.jpg" "Men's tshirt (1)/" "year_abroad_application! (3).docx" "DropboxInstaller.dmg" "Firefox 70.0.1.dmg" "t-shirt-black_t-shirt-black-back/" "mug-mama.zip" ".ipynb_checkpoints/" "uls-date-web-wider.webm" "pillow-front-(1)_pillow-back-(1)/" "algo1slides/" "Literature_review_for_energy_consumption_in_manufacturing_industry_from_machine_to_factory_level__1_ (3).pdf" "Cheapest-Countries-for-Facebook-Clicks.pdf" "5-2/" "00100dPORTRAIT_00100_BURST20190603170753042_COVER.jpg" "SpotifyInstaller (1).zip" "Untitled Diagram (7).pdf" "iphone-8-plus.zip" "white-tshirt 2/" "viterbi (1).pdf" "El Plan Revolucionario - Marcos Vazquez.mobi" "01 - Analysis and Visualisation (Solutions).ipynb" "jetprint_fulfillment_2019_09_04_23524390152.txt" "AAAAA.jpg" "influencer-photos.zip" "INFR10069-2019-master.zip" "Orange83_transition_Pack3_v1_1.zip" "—Pngtree—hot-smoke_114140.zip" "pronunctiation-tree.pdf" "shine 2.mp4" "language (1).pdf" "01 - Analysis and Visualisation (Solutions) (1).ipynb" "enchufla complicado .mp4" "mug (3)/" "phone/" "IMG_20190118_100733.jpg" "epdf.pub_elements-of-acoustic-phonetics.pdf" "abstract-1292269.jpg" "mug-white/" "joan-resume.pdf" "svgtopng (2).zip" "Lecture 2 2015-16 Tri 1 How culture works STUDENTS.ppt" "gloss_and_bloom.zip" "mug-mama (1).zip" "white-tshirt (1)/" "pillow (1).zip" "women-size-s/" "mug-white (2)/" "parseAudience.py" "INV0001.pdf" "GTD_Todoist_A4.pdf" "evaluate_smart_objectives_template.doc" "mug-blsck-zoomed.zip" "mug (5).zip" "phuket.psd" "Ketone-group-2D-skeletal.svg" "ornamental-cherry-4121703_1920.jpg" "background-3317139_1920.jpg" "mockup-16677d24.png" "t-shirt-black_t-shirt-black-back.zip" "Problems with order#20190906782486 7_47 am.pdf" "00100dPORTRAIT_00100_BURST20181125192034130_COVER.jpg" "Proposing - 537.vid" "CA new Wine menu - MM - Copy.pdf" "mockup-97cf6b16.png" "matlab_R2018a_maci64.dmg" "Lecture 4 Tri 2 2015.16 Collectivism STUDENTS.ppt" "white-tshirt-blue.zip" "star.svg" "INV0001 (1).pdf" "chromeremotedesktop.dmg" "front_back_left_right/" "white-tshirt (1).zip" "cuban open en chufla shine.mp4" "quarcacondregular.otf" "SummerSchool/" "_b50972a32644e2055937f6f9747e9120_algo1slides.zip" "assignment-3.pdf" "20170614-134905.jpg" "quattrocento.zip" "IMG_20190319_131202.jpg" "Professional Issues 2 - Coursework, Examples, Codes of Conduct.pptx" "ffffffffffffffffffffff.mp4" "blank-1868502 (1).jpg" "algorithms-10-00124.pdf" "fondo-pared-textura-blanca.zip" "mug3 (1)/" "report-d5hfu66m3gdey3sb2ce9rizfr.pdf" "phone-case/" "salsa-dancing-dallas-677x451.jpg" "kettlebel.jpg" "mug-mama/" "alfred-workflow-todoist-master/" "language.pdf" "S0167639399000370.bib" "Nations_ROES_Tipsheets/" "mug-white (1)/" "Solarized-Dark.terminal" "Post_engagement_ad_1.pdf" "download/" "instagram-hex-colors-gradient-background.png" "logo.png" "src 2/" "matlab_R2018a_maci64.dmg.zip" "edinburgh-uk-june-18th-2010-2200-140-mm.png" "presentation_letter_joan_2.pdf" "phone-case.zip" "18_11_2018 11_13_46.jpg" "-report-Greaterskies.pdf" "mug3/" "TunnelBear.app/" "ezgif.com-gif-maker.svg" "wavesurfer-1.8.8p6-macos.dmg" "#20190906782486/" "Plan R28 - Fitness Revolucionario.pdf" "notonthehighstreet-full.mov" "SolsticeClientMac_V2AAC1260E0PCF6CI6F7ED558.app/" "phone-case-try-2 (2)/" "Die 50 häufigsten Verben.docx" "AIMA 3ed. - Solution Manual.pdf" "pillow-back.png" "dress-try-1 (1)/" "Google.Play.Music.Desktop.Player.OSX.zip" "1962711_10152276720353566_901139389_n.jpg" "IMG_20190206_141931.jpg" "See-That-My-Grave-Is-Kept-Clean.wav" "—Pngtree—hot smoke_114140.rar" "mug-white (1).zip" "iPhone_Allsizes/" "WMF 3/" "Found Ita  1 - HW3 (week 9).docx" "pillow/" "shivam-singhs-cv.pdf" "mpctools-master/" "WMF 4/" "Joan_Reyero_-_MSc_Informatics_student.pdf" "convertcsv.csv" "el truco.mp4" "letter-j.png" "dress (1).zip" "love-3187623_1920.jpg" "Chapter 6 part I(2).pdf" "mug (4).zip" "mug.zip" "Custom star map creation tool. High-resolution star maps for your art or product.zip" "WhatsApp Image 2019-03-27 at 14.49.29.jpeg" "CYK-Algorithm.ppt" "inf2d_assignment2.zip" "Nations_ROES_Tipsheets.zip" "mug-black/" "Speech_processing_extension_request.pdf" "citation-224143428.bib" "sabroso.mp4" "Hyper.app/" "mug-white.png" "dress-try-1/" "hamming-window.pdf" "la caja.mp4" "IMG_20190228_120310.jpg" "icons8-a-filled-100.png" "Inconsolata/" "eye-2340806.jpg" "mug-black (1).zip" "kettlebellswingtrio.jpg" "phone-case-try-2 (1)/" "WMF 2/" "kmeans.zip" "17-18.pdf" "statements (1).pdf" "Install Spotify.app/" "Screenshot 2019-08-24 at 12.52.45.RGBA" "quarcaextbold.otf" "Untitled Diagram (6).pdf" "pdftoimage.zip" "S0167639399000370.ris" "AAAAAAAAAAA.jpg" "card-back.jpg" "father-2770301.jpg" "IMG_20181210_201843.jpg" "IMG_20190328_125935.jpg" "dress (2).zip" "pillow-front-(1)_pillow-back-(1)_printfile_front_pillowwwww/" "AdobeStock_254719183.psdt" "DiarioEntrenamientoEfectoKettlebell.xlsx" "abstract-1292269-Edit.tif" "El Plan Revolucionario - Fitness Revolucionario.pdf" "Ross_8th_A_First_Course_in_Probability - Annotated.pdf" "ShopifyAPI-5.1.0.tar.gz" "pp-complete.csv" "B118277_1947+0.pdf" "mug-white.zip" "women-size-s.zip" "4-2/" "development-of-a-chemical-oxidizer-tank-model-for-hybrid-rocket-engines.pdf" "courseworkextensionform.docx" "01-Dec-2018_to_04-Dec-2019.csv" "emule.dmg" "baskerville/" "Finance CV V1.pdf" "white-tshirt-blue (1)/" "WhatsApp.dmg" "Private Residential Tenancy Agreement.pdf" "personal_statement (3).docx" "epdf.pub_speech-synthesis-and-recognition.pdf" "VID_20190226_203144.mp4" "IMG_20190319_131221.jpg" "Kettlebell-Exercise-Figure-8-Exercise-kettlebell-t.html" "pillow-front-(1)/" "statements (2).pdf" "00100dPORTRAIT_00100_BURST20190603170722200_COVER.jpg" "mug3.zip" "Untitled Diagram (5).pdf" "ahorasi.zip" "letter-g.png" "MVI_7675 (audio-extractor.net).wav" "letter-p.png" "6/" "My Star Maps - Lead Generation_Leads_2019-07-11_2019-09-20.csv" "dress-try-1 (1).zip" "career-break-cv-template.doc" "white-tshirt-blue (1).zip" "2019827_matched_locations.txt" "Zapier-for-Alfred-master.zip" "Joan Reyero.hazellicense" "white-tshirt.zip" "SpotifyInstaller.zip" "year_abroad_application!.docx" "Focus-v1.8.14.zip" "t-shirt-black_t-shirt-black-back (1)/" "Artificial Intelligence - A modern Approach - Annotated.pdf" "Lecture 1 2015.16 Tri 2 students v.ppt" "Export-1e6de82e-9ec6-4066-8c61-d10d8c1ea37c.zip" "Joan-1d797165-88ca-418c-847a-a917d95b93a1.csv" "phone-case-try-2 (3)/" "viterbi.pdf" "IMG_20190118_100739.jpg" "emuletorrent.dmg" "PLAN PROTEICO.docx" "AdobeStock_226109563.psdt" "gloss_and_bloom/" "mug-white (2).zip" "white-tshirt (3).zip" "shift-mac.dmg" "Psychology.zip" "mug3 (1).zip" "Studio_Thinking_How_Visual_Arts_Teaching_Can_Promo.pdf" "Untitled Diagram (9).pdf" "Untitled Diagram (8).pdf" "instagram-logo.png" "Artificial Intelligence - A Modern Approach Solutions.pdf" "Audience_Overlap_2019-6-2.csv" "white-tshirt (2).zip" "Lecture 3  Students Tri 2 2015-16 Status.ppt" "15-16.pdf" "launch.dmg" "phuket-thai-june-18th-2010-2200-220-mm.png" "phone-case-try-2.zip" "mug-white (3).zip" "FocusMe-install.dmg" "WRIT_002_LATEX_TEMPLATE.pdf" "white-textured-wall-background.zip" "Hazel-4.3.5.dmg" "hmm-phone.pdf" "Focus.app/" "ilp-coursework.pdf" "assignment2.pdf" "Introduction to Probability by Joseph K - Annotated.pdf" "15224299-front/" "iceland-june-18th-2010-2200-90-mm.png" "Psychology/" "my-person.zip" "eye-3221498.jpg" "edinburgh-uk-june-18th-2010-2200-100-mm.png" "report-u2u2u1zvka0f5b44xlasgu8fr.pdf" "mpctools-master.zip" "mug (1)/" "00100dPORTRAIT_00100_BURST20190608162446237_COVER.jpg" "GoogleChrome (1).dmg" "Player.dmg" "HolaVPN-1.0.21.dmg" "student+-cover-letter.pdf" "white-tshirt (3)/" "madgicx_com_2019_08_25_23389708135.txt" "alfred_workflow_todoist.alfredworkflow" "Untitled Diagram (4).pdf" "Audience_Overlap_2019-6-1.csv" "videoduke.dmg" "dress-try-1.zip" "Screenshot-2019-08-24-at-12.52.45.rgba" "Polymail-v2.1.1.zip" "SkyGoInstaller.app/" "statements (3).pdf" "Lunar.dmg" "Wavebox_4_4_0_osx.dmg" "dress/" "tikzit-osx.dmg" "60049615_331711340847126_2170889450589815569_n.jpg" "Zapier-for-Alfred-master/" "Found Ita 1 - HW1 (week 5) (1).docx" "00100dPORTRAIT_00100_BURST20190603170710626_COVER.jpg" "MathWorks/" "phone.zip" "treeComma.pdf" "citation-228207991.txt" "mug (2)/" "phone-case-try/" "routine.mp4" "svgtopng (1).zip" "Inconsolata.zip" "mug-mama (2).zip" "pillow (2).zip" "INFR10069-2019-master/" "Notion-0.3.0.dmg" "mug (6).zip" "mug-white (3)/" "B118277_2990.pdf" "uls-date-web.webm" "presets.zip" "02UDITO.pdf" "task1_3_cumvar.mat" "B118277_1947_0 (1).pdf" "My Star Maps - SEO.pdf" "14.1-FACEBOOK-ADS-FUNNEL-by-Coursenvy.pdf" "ILP_extension_request.pdf" "VID_20190326_211301_4.mp4" "IJTRD4314.pdf" "Untitled document.pdf" "MonitorControl.dmg" ".localized" "Joan_Reyero_-_MSc_Informatics_student (1).pdf" "TunnelBear.zip" "DMMR Review notes.pdf" "Sam_Kolder_LUTs.zip" "Untitled Diagram (11).pdf" "hmm (1).pdf" "Programa Desencadenado - Diario de Ejercicios.xlsx" "Hyper-3.0.2-mac.zip" "Chapter 6 part I(2)-6-9.pdf" "esame B2 ESEMPIO PARA WEB (1).docx" "icons8-text-color-24.png" "mug-white-zoomed/" "pddl4j-3.8.2.jar" "northern-lights-1081752.jpg" "Men's tshirt/" "Magic mug template/" "IMG-20190217-WA0004.jpg" "SolsticeClientMac_V2AAC1260E0PCF6CI6F7ED558.zip" "Orange83_transition_Pack3/" "alfred-workflow-todoist-master.zip" "Order-43144846-Docs-080543.pdf" "4d0b3 zu1t3.zip" "dad-son.png" "Magic mug template.zip" "christmas-2018-19.zip" "56547448_2317487555241035_626434468761977573_n.jpg" "pillow (2)/" "elpocero3_markitos.zip" "influencer-photos/" "white-tshirt (4)/" "Photos (1).zip" "mug-white (4).zip" "WhatsApp Image 2019-03-27 at 15.08.10.jpeg" "logPdf.zip" "logPdf/" "WebM_Premiere_v1.1.0.dmg" "mug (6)/" "token.pdf" "demo-material-mac.tar.gz" "FFFFFFFFFFFFF.mp4" "YourBTbill_28102019.pdf" "Notion-0.6.0.dmg" "certificate.pdf" "Player (1).dmg" "IMG_20190331_120342.jpg" "t-shirt-black_logo-white/" "dress (1) 2/" "mug (1).zip" "WMF/" "Assignment1-solutionsipynb" "university_wide_application_essay.docx" "night-sky-blue-christmas-1600x1600.jpg" "ilp-coursework(2).pdf" "fundo-de-parede-texturizada-branca/" "10.1007_BF00116251.bib" "53283303_358752541646504_4014155303326056448_n.jpg" "crop-top-white_mockup_Front_White.png" "IMG_20190124_130445.jpg" "quarcaextregular.otf" "presentation_letter_joan_2 (1).pdf" "AdobeStock_247661838.psdt" "Alfred_3.7_938.dmg" "white-glossy-mug-2/" "showing-white.psd" "pillow (1)/" "IMG-20190217-WA0006.jpg" "Favorite Workflows.zip" "svgtopng.zip" "31894422_595777864126713_4865567226125615104_n.jpg" "mug-white (4)/" ".DS_Store" "eye-1132531.jpg" "tcc-dequi-slash-ufrgs-template.pdf" "Custom star map creation tool. High-resolution star maps for your art or product.html" "statements (4).pdf" "mug (5)/" "mug-black (1)/" "Carta_de_motivaci_n_presentaci_n_.pdf" "Untitled Diagram (3).pdf" "Global Fine Art Prints & Frames (1).pdf" "presentation_letter_joan.pdf" "Future_Finance_Loan_Documents.pdf" "mug-white-zoomed (2).zip" "Emacs-26.1-2-universal.dmg" "Men's tshirt.zip" "cuban open en chufla back turn changing hands.mp4" "Untitled Diagram (2).pdf" "blank-1868502_1280.jpg" "Mug-Animated-Mockup.zip" "convertcsv (1).csv" "baskerville.zip" "statements (5).pdf" "aaaaaaaaaa.jpg" "Shades Preferences.prefPane/" "mug-mama (1)/" "iPhone_Allsizes.zip" "phone-case-try-2 (1).zip" "AdobeStock_229825127.psdt" "card-front.jpg" "00100dPORTRAIT_00100_BURST20181128145330646_COVER.jpg" "InstallBackupAndSync.dmg" "Untitled-1.psd" "white-tshirt-blue/" "Photos.zip" "30 Glitch Sound Effects Pack.zip" "personal_statement.docx" "t-shirt-black_logo-white.zip" "30 Glitch Sound Effects Pack/" "00 - Introduction (Solutions).ipynb" "dress.zip" "paper-1074131.jpg" "Found Ita  1 - HW2 (week 7)(1).docx" "STOWWH_20181629_201651.ics" "h-end.pdf" "Focus 2.app/" "t-shirt-black.zip" "mug-white-zoomed (2)/" "dispatch_notes.pdf" "report-7q6ro3hty43okchphh4p7ujtt9.pdf" "IMG_20190228_120231.jpg" "Literature_review_for_energy_consumption_in_manufacturing_industry_from_machine_to_factory_level__1_ (1).pdf" "sydney_application_1.docx" "white-tshirt (4).zip" "Ross_8th_A_First_Course_in_Probability.pdf" "phone-case-try (1).zip" "mug-black.png" "powergrab-master.zip" "20190508-1721-TenancyAgreement-1651405328.pdf" "edinburgh_LOGO_READY_VAMOADALE_mockup_Front_Black.png" "lights-1088141.jpg" "bugalu.mp4" "phone-case-try.zip" "WRIT_002_LATEX_TEMPLATE (1).pdf" "jdk-11.0.2_osx-x64_bin.tar.gz" "googlechrome.dmg" "greaterskies-home-classic-map-woman-el-1920.jpg" "winter-landscape-2571788.jpg" "Untitled Diagram (10).pdf" "mug-white-zoomed (1)/" "quarca.zip" "Logo_transparent.png" "northern-lights-1081752.psd" "blank-1868502.png" "Untitled Diagram.pdf" "slides-full06-17-21.pdf" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/sp/sp-cw2/" (24037 6437 94318 504000) "experiment-data/" ".gitignore~" "all_users.txt" "data/" "users.txt~" ".git/" ".emacs-bu/" "users.txt" "report/" "getAllUsers.py" "scripts/" "info-backup.txt" "experimentsData.py" ".gitignore" "user_mfccs.txt" "try.txt" "getAllUsers.py~" "results.txt" "models/" "getData.py" "lab/" "resources/" "info-12-14" "info.txt" "mfccs_to_use.txt" ".DS_Store" "wav/" "sanity_users.txt" "log.csv" "try_train.txt" "try_test.txt" "experimentsData.py~" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/sp/sp-cw2/scripts/" (24035 54700 269793 728000) "run_experiment~" "train_models_single~" "train_models" "users_mfccs~" "test_and_evaluate~" "sanity_check~" ".emacs-bu/" "run-all-experiments~" "run_experiment" "#results#" "sanity_check" "results" "recognise_test_data_single~" "getData.py" "run_all_experiments" "train_models_single" "users_mfccs" "makeMyNumbers.py" "initialise_models_single" "recognise_test_data_single" "results_single" "initialise_and_train_models" "recognise_test_data" "initialise_models" ".DS_Store" "make_mfccs" "initialise_models_single~" "test_and_evaluate" "._make_mfccs" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/sp/sp-cw2/experiment-data/" (24035 63443 415659 470000) "4-microphone-double-train.txt" "7-hmm-50-test-2.txt" "7-hmm-50-test.txt" "7-hmm-50-train.txt" "remove.txt" "6-accent-nn-native-test.txt" "2-gender-train.txt" "1-gender-headset-train.txt" "5-accent-native-nn-test-2.txt" "delete-test-2.txt" "8-hmm-20-train.txt" "4-microphone-double-test.txt" "6-accent-nn-native-train.txt" "3-microphone-simple-train.txt" "1-gender-headset-test.txt" "8-hmm-20-test.txt" "8-hmm-20-test-2.txt" "4-microphone-double-test-2.txt" "2-gender-test-2.txt" "delete-train.txt" "1-gender-headset-test-2.txt" "5-accent-native-nn-train.txt" "3-microphone-simple-test.txt" "2-gender-test.txt" "3-microphone-simple-test-2.txt" "5-accent-native-nn-test.txt" "delete-test.txt" "6-accent-nn-native-test-2.txt" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/iaml/assignment2/" (24014 36670 424379 138000) "L10_Instructions.pdf" "first.png" "k-means-clustering.png" "no2-corr.png" "Data/" "scores-c.png" "nox-corr.png" "main.py" ".emacs-bu/" ".ipynb_checkpoints/" "95.png" "second.png" "mpctools-master/" "pca-head-plot.png" "style.tex" "Assignment_2.tex" "README.md" "mpctools/" "mean.png" "f291326319b71138c63e645dbc090ffd--funny-pictures-with-captions-funny-images.jpg" "95-2.png" "how-to-draw-Laptop-step-0.png" "Untitled.ipynb" "no-corr.png" "regression-tree.png" "count-plot-1.png" "heatmap1.png" ".DS_Store" "Untitled1.ipynb" "toaster.jpg" "conda.req" "knn-1.png" "untitled folder/" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/sp/" (24017 18829 73261 294000) "pipe.pdf" "spectrum.png" "fst-1.pdf" "sp-cw2/" ".DS_Store" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/iaml/assignment2/Data/PartA/" (23996 1580 0 0) "20ng_labels.csv" "20ng_train.csv" "20ng_test.csv" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/iaml/assignment2/Data/" (23996 1580 0 0) "PartA/" "PartB/" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/automation/" (23968 34221 972721 886000) "mug.py" "womanTShirt.py" "1.png" "printful-try.py" "3.png" "makeProducts.pyc" "2.png" "6.png" ".emacs-bu/" "5.png" "4.png" "product.py" "make.py" "files/" "manTShirt.pyc" "womanTShirt.pyc" "phone.pyc" "makeProducts.py" "finals/" "test.py" "__pycache__/" "48901571.png" "pillow.py" ".DS_Store" "manTShirt.py" "phone.py" "IAML2019/" "try.py" "product.pyc" "../" "./")
+
+ ("/Users/joanreyero/Google Drive/automation/" (23950 5530 384576 428000) "mug.py" "2/" "womanTShirt.py" "1.png" "makeProducts.pyc" "2.png" ".emacs-bu/" "5.png" "4.png" "product.py" "make.py" "files/" "manTShirt.pyc" "womanTShirt.pyc" "phone.pyc" "makeProducts.py" "finals/" "__pycache__/" "48901571.png" "star-maps/" "mug.pyc" "pillow.py" "pillow.pyc" ".DS_Store" "manTShirt.py" "phone.py" "product.pyc" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/iaml/" (23997 33915 695219 16000) "assignment2/" ".DS_Store" "iaml2019/" "../" "./")
+
+ ("/Users/joanreyero/Google Drive/" (23947 37114 851986 868000) "orders/" "automation/" "finance/" "advertising/" "product-temlates/" "website-media/" "logos/" ".tmp.drivedownload/" "General/" "Icon
+" "trees/" "Products/" ".DS_Store" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/mystarmaps/finance/" (23947 33861 950707 196000) "scripts/" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/mystarmaps/" (23927 38760 970275 20000) "credentials/" "finance/" "horizontal-pictures/" "labels-t-shirts/" "product-human-photos/" "logo/" "product-studio-images/" "main-page-video/" "pictures/" "sales/" "trees/" "products/" ".DS_Store" "mock-ups/" "social-media/" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/tsm -showing/scripts/co.tsm/tsm/" (23837 43897 325811 832000) "buildJSON.py" "messages.py" "sendEmail.py" "__init__.py" "jsonupdate.py" "bu-customer.json" ".DS_Store" "messages/" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/tsm -showing/scripts/co.tsm/" (23837 41285 638884 207000) ".git/" "README.md" "tsm/" ".DS_Store" "res/" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/tsm -showing/" (23837 38405 219758 554000) "media/" "showing/" "dovetailed-big/" "scripts/" "fotos-from-dovetailed/" "logo/" "cover-photos/" ".dropbox" "videos/" "photoshop/" "montages/" "art/" "Icon
+" ".DS_Store" "dovetailed-big-reduced/" "ads/" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/tsm -showing/scripts/" (23837 43740 317884 250000) "email-marketing/" "co.tsm/" ".DS_Store" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/tsm -showing/scripts/email-marketing/" (23835 34795 903435 691000) "buildJSON.py" "tsm-customer-data.csv" ".emacs-bu/" "customer.json" "messages.py" "sendEmail.py" "__pycache__/" "jsonupdate.py" "bu-customer.json" ".DS_Store" "messages/" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/tsm -showing/scripts/email-marketing/messages/" (23835 33951 89 320000) "astro-first.txt" "printer-second.txt" "printer-first.txt" ".emacs-bu/" "travel-second.txt" "astro-second.txt" "competition-second.txt" "competition-first.txt" "travel-first.txt" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/gsk/gsk-designs/gsk-designer/designs/templates/registration/" (23810 17187 371656 987000) "password_change_done.html" "logout.html" "password_reset_complete.html" ".emacs-bu/" "registration_form.html" "activate.html" "activation_email_subject.txt" "password_reset_form.html" "password_reset_confirm.html" "password_reset_email.html" "activation_email.txt" "registration_complete.html" "password_change_form.html" "login.html" "password_reset_done.html" "registration_closed.html" "activation_complete.html" "#password_reset_email.html#" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/wearmyfeed/" (23799 48195 603702 46000) "noa.png" "image.png" "1.png" "cravyandco.png" "3.png" "Template.psd" "2.png" "Pamela.png" "2.psd" "#try.py#" "Eukiah+-+Star+Map.jpeg" ".emacs-bu/" "brunacosta.png" "Eukiah+-+GreaterSkies+Star+Map.jpeg" "4.png" "andy.png" "white-tshirt.jpg" "image (1).png" "img_7447-225x300.jpg" "image (2).png" "tamoreadypues.png" "image (3).png" "image (4).png" "helliugoodbye.png" "2019-05-11_20:27:03.jpg" "2019-05-11_20:25:03.jpg" "young.wild.ones.png" "try.py" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/the-star-maps/marketing/" (23798 2861 858743 454000) "audience.csv" ".emacs-bu/" "crawled.json" "parseAudience.py" "out.csv" "non-competition-audience.csv" "first-competition-draft/" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/gsk/gsk-designs/gsk-designer/" (23798 33121 359700 309000) "media/" "icons.svg" ".git/" "manage.py" "static/" ".gitignore" "eslintrc.js" "db.sqlite3" "Makefile" "test/" "gskDesigns/" "designs/" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/gsk/" (23798 6301 990420 48000) "django/" "photos/" "advertising/" "designer/" "dessign_maps/" "maps-sample/" "short-lnk/" ".DS_Store" "gsk-designs/" "logo-animation/" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/the-star-maps/" (23794 28100 414355 71000) "marketing/" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/gsk/gsk-designs/gsk-designer/static/js/" (23652 32381 41793 263000) "other-bootstrap.min.js" "tsm-003-rebuild.js" "tsm-000-tsm.js" ".emacs-bu/" "other-spectrum.js" "tsm-003-save.js" "tsm-003-template.js" "tsm-000-make.js" "other-jquery-ui.js" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/gsk/gsk-designs/gsk-designer/static/" (23652 32425 691152 727000) "fonts/" ".emacs-bu/" "tsm-500-map-center.svg" "icons/" "tsm-300-template.json" "tsm-300-sample-map.png" "js/" "css/" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/algorithms/matcher/" (23669 3193 500397 313000) ".emacs-bu/" "NaiveKMPMatcher.java" "QueueUnderflowException.java" "ExampleData.java" "StudentClass.java" "Queue.java" "NaiveMatcher.java" "Matcher.java" "GraphingData.java" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/reasoning-and-agents/coursework-1/" (23687 48195 257092 331000) "TTTGame.hs" ".emacs-bu/" "Inf2d1.hs" "PlayGame.hs" "Main.hs" "tests.hs" "#RobotPath.hs#" ".DS_Store" "RobotPath.hs" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/reasoning-and-agents/assignment2/" (23715 8972 743942 623000) "2/" ".emacs-bu/" "answers.txt" "examples/" "domain-template.pddl" "inf2d_assignment2.pdf" ".DS_Store" "problem-template.pddl" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/reasoning-and-agents/" (23708 51295 473445 888000) "coursework-1/" "assignment2/" "assignment-2/" "assignment-2.zip" ".DS_Store" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/algorithms/" (23663 52426 496837 217000) "matcher/" ".DS_Store" "simple-recommender-system/" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/gsk/gsk-designs/gsk-designer/static/css/" (23652 2534 217733 966000) "other-bootstrap-reboot.min.css" "other-bootstrap-grid.min.css" "tsm-103-make.css" ".emacs-bu/" "other-jquery-ui.css" "other-bootstrap.min.css" "tsm-100-tsm.css" "tsm-100-fonts.css" "other-spectrum.css" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/gsk/gsk-designs/gsk-designer/designs/" (23652 562 926888 27000) "views.py" "urls.py" "tests.py" ".emacs-bu/" "templates/" "admin.py" "forms.py" "apps.py" "__pycache__/" "__init__.py" "models.py" "migrations/" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/gsk/gsk-designs/gsk-designer/designs/templates/" (23651 64292 485491 208000) "edit_design.html" ".emacs-bu/" "backup.html" "make_map.html" "show_designs.html" "base.html" "add_design.html" "index.html" "registration/" "customize_design.html" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/algorithms/simple-recommender-system/" (23640 35988 372936 906000) ".git/" ".emacs-bu/" "recommenderTest.py" "__pycache__/" "user.py" "recomenderSystem.py" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/gsk/designer/designer/" (23650 59336 179424 353000) "buildmap.py" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/gsk/designer/static/js/" (23514 64068 268883 384000) "rebuild-design.js" "spectrum.js" "border-highlight.js" "bootstrap.min.js" "save-design.js" "make-map.js" "html-template.js" "map-colors.js" "designs.js" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/gsk/designer/static/" (23514 64048 457611 577000) "fonts/" ".emacs-bu/" "js/" "sample-map.png" "css/" "template.json" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/alfred/" (23514 63639 432975 526000) "Alfred.alfredpreferences/" "../" "./")
+
+ ("/Users/" (23585 61551 538182 819000) "Shared/" "joanreyero/" ".localized" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/gsk/logo-animation/loader/" (23563 40170 112939 349000) ".git/" ".emacs-bu/" "star.svg" "README.md" "loader.css" "index.html" "gsk-000-loader.js" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/algorithms/simple-recommender/" (23634 56494 775870 386000) ".git/" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/gsk/logo-animation/" (23560 9823 406406 664000) ".emacs-bu/" "loader/" ".DS_Store" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/pfnl/" (23553 1845 829649 690000) "Inf2A_Prac2_handout_2018.pdf" "statements.pyc" "statements-test.py" "pos_tagging-test.py" "pos_tagging.py" "tests.py" "pos_tagging.pyc" "statements.py" "sentences.txt" ".emacs-bu/" "__pycache__/" "agreement.py" "semantics.py" ".pytest_cache/" ".DS_Store" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/joanreyero/resume/" (23537 37343 920243 650000) "image.png" "joan-resume.out" "joan-resume.tex" ".emacs-bu/" "joan-resume.pdf" "joan-resume.log" "joan-resume.aux" "twentysecondcv.cls" ".DS_Store" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/gsk/designer/dessigns/" (23538 59445 421786 863000) "views.py" "urls.py" "tests.py" ".emacs-bu/" "templates/" "admin.py" "forms.py" "apps.py" "__pycache__/" "__init__.py" "models.py" "jm.json" "migrations/" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/joanreyero/" (23537 30096 185736 556000) "resume/" ".DS_Store" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/gsk/gsk-designs/gsk-designer/gskDesigns/" (23520 35461 71999 559000) "wsgi.py" "urls.py" ".emacs-bu/" "settings.py" "__pycache__/" "__init__.py" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/year-one/computer-simulation/polynomial/" (23514 63944 918406 288000) "testPoly.py" "polynomial.py" ".emacs-bu/" "polynomial.pyc" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/year-one/computer-simulation/" (23514 63736 685247 340000) "polynomial/" ".emacs-bu/" "traffic2/" "orbital-motion/" "project.tgz" "project/" "mandlebrot/" "decay/" "traffic/" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/year-one/computation-and-logic/" (23514 63735 471765 83000) ".emacs-bu/" "notes.org" "ltxpng/" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/year-one/" (23514 63640 278619 297000) "computer-simulation/" "data-analysis/" "computation-and-logic/" "ila.zip" "functional-programming/" "ila/" "political-data-analysis/" "object-oriented-programming/" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/gsk/designer/dessigns/templates/dessigns/" (23517 42259 842130 213000) "edit_design.html" ".emacs-bu/" "make_map.html" "base.html" "show_dessigns.html" "add_design.html" "index.html" "customize_design.html" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/gsk/designer/dessigns/templates/" (23514 64071 916292 652000) "dessigns/" "registration/" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/gsk/gsk-designs/" (23514 64038 94067 839000) "gsk-designer/" "../" "./")
+
+ ("/Users/joanreyero/Dropbox/gsk/designer/" (23514 64039 310022 940000) "media/" ".git/" "manage.py" "dessigns/" "designer/" "requirments.txt" "static/" ".gitignore" "dessign_maps/" "db.sqlite3" "jm.json" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
