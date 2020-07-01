@@ -24,7 +24,7 @@
    (gnuplot . t)
    (python . t)
    (screen . nil)
-   (sh . t)
+   (shell . t)
    (sql . nil)))
 (setq org-confirm-babel-evaluate nil)
 ;;(setq org-babel-python-command "/usr/bin/python")
@@ -37,8 +37,8 @@
 
 
 
-;(add-hook 'org-mode-hook (lambda ()
-;  (define-key org-mode-map (kbd "C-c g") 'org-mac-grab-link)))
+(add-hook 'org-mode-hook (lambda ()
+  (define-key org-mode-map (kbd "C-c g") 'org-mac-grab-link)))
 
 (require 'ox-latex)
 
@@ -81,6 +81,9 @@
 ;(setq org-latex-create-formula-image-program 'dvipng)
 
 
+
+(setq org-html-htmlize-output-type 'css)
+
 ;;; Required to make link export in latex work (???)
 (add-to-list 'org-modules 'org-id)
 
@@ -89,10 +92,10 @@
 (setq org-id-link-to-org-use-id t
       org-hide-emphasis-markers t)
 
-;;(require 'org-mac-link)
-;;(global-set-key (read-kbd-macro "C-x m")
-;;                'org-mac-message-insert-selected)
-;;(define-key org-mode-map (kbd "C-c g") 'org-mac-grab-link)
+(require 'org-mac-link)
+(global-set-key (read-kbd-macro "C-x m")
+                'org-mac-message-insert-selected)
+(define-key org-mode-map (kbd "C-c g") 'org-mac-grab-link)
 
 ;;;(defun yas/org-very-safe-expand ()
 ;;;  (let ((yas/fallback-behavior 'return-nil)) (yas/expand)))
@@ -144,13 +147,13 @@
       ;;org-hide-block-startup 'hideblocks
 )
 
-;;(defun org-mac-chrome-get-frontmost-description ()
-;;  (interactive)
-;;  (message "Applescript: Getting Safari url...")
-;;  (let* ((url-and-title (org-mac-chrome-get-frontmost-url))
-;;         (split-link (split-strin g url-and-title "::split::"))
-;;         (URL (car split-link)))
-;;    (cadr split-link)))
+(defun org-mac-chrome-get-frontmost-description ()
+  (interactive)
+  (message "Applescript: Getting Safari url...")
+  (let* ((url-and-title (org-mac-chrome-get-frontmost-url))
+         (split-link (split-strin g url-and-title "::split::"))
+         (URL (car split-link)))
+    (cadr split-link)))
 
 
 
@@ -188,12 +191,12 @@
 ;;         ; (file+headline "~/cjr/cjr.org" "Open")
 ;;         ; "* %? :prj:\n:PROPERTIES:\n:on: %U\n:category: %^{Category}\n:END:\n\n"
 ;;         ; :prepend t :empty-lines 1)
-        ;;  ("b" "auto-bookmark" entry (file+headline "~/Dropbox/inbox.org" "Bookmarks")
-        ;;  "* %(org-mac-chrome-get-frontmost-url)\n"
-        ;;  :prepend t)
-        ;; ("B" "bookmark" entry (file+headline "~/Dropbox/inbox.org" "Bookmarks")
-        ;;  "* %^{Description}\n %(org-mac-chrome-get-frontmost-url)"
-        ;;  :prepend t)
+         ("b" "auto-bookmark" entry (file+headline "~/Dropbox/inbox.org" "Bookmarks")
+         "* %(org-mac-chrome-get-frontmost-url)\n"
+         :prepend t)
+        ("B" "bookmark" entry (file+headline "~/Dropbox/inbox.org" "Bookmarks")
+         "* %^{Description}\n %(org-mac-chrome-get-frontmost-url)"
+         :prepend t)
 ;;         ("h" "Habit" entry (file+headline "~/Dropbox/joanreyero/joanreyero.org" "Habits")
 ;;          "* TODO %^{Brief Description} %^g\n SCHEDULED: %^t \n:PROPERTIES:\n:CATEGORY: %^{Category}\n:CREATED: %U\n:END:\n%?"
         ;;          :prepend t :empty-lines 1)))
@@ -260,6 +263,8 @@
 
 ;;; htmlize is used to fontify the exports of source code as in an
 ;;; emacs buffer
+(add-to-list 'load-path "~/.emacs.d/htmlize.el")
+(require 'htmlize)
 
 
 (add-to-list 'auto-mode-alist '("\\.org\\'" . org-mode))

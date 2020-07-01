@@ -30,18 +30,6 @@
 
 (global-set-key (kbd "C-x C-b") 'ibuffer)
 
-;;; Mac specific stuff
-(when (string-match "apple-darwin" system-configuration)
-  (setq mac-allow-anti-aliasing t
-    mac-command-modifier 'meta
-    mac-option-modifier 'none
-    initial-frame-alist '((top . 0) (left . 0)
-			  (width . 90) (height . 58))
-    default-frame-alist '((top . 0) (left . 800)
-			  (width . 90) (height . 58)))
-  (set-face-attribute 'default nil :font "Inconsolata"
-				   :height 150 :foundry "apple"))
-
 ;;; Helper functions
 (defun wc (&optional start end)
   "Prints number of lines, words and characters in region or whole buffer."
@@ -177,7 +165,7 @@
  '(org-default-notes-file "~/joanreyero/inbox.org")
  '(org-modules
    (quote
-    (org-bbdb org-bibtex org-docview org-eww org-gnus org-id org-info org-irc org-mhe org-rmail org-w3m org-mac-iCal org-mac-link org-secretary)))
+    (org-bbdb org-bibtex org-docview org-eww org-gnus org-id org-info org-irc org-mhe org-rmail org-w3m org-secretary)))
  '(org-special-ctrl-a/e (quote reversed))
  '(org-structure-template-alist
    (quote
@@ -242,7 +230,7 @@
  '(org-tags-column -80)
  '(package-selected-packages
    (quote
-    (org-protocol-jekyll mmm-mode vue-html-mode ssass-mode ein workgroups2 org-super-agenda ## web-mode haskell-mode)))
+    (org-protocol-jekyll ein workgroups2 org-super-agenda ## web-mode haskell-mode)))
  '(show-paren-mode t)
  '(split-height-threshold 200)
  '(truncate-lines t)
@@ -254,8 +242,6 @@
 
 (load "~/.emacs.d/.org.el")
 
-
-(require 'htmlize)
 
 
 
